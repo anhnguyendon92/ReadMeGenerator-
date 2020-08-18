@@ -1,0 +1,23 @@
+{
+  "name": "readmegenerator-",
+  "version": "1.0.0",
+  "description": "Read Me Generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquire": "^0.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhnguyendon92/ReadMeGenerator-.git"
+  },
+  "author": "Anh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhnguyendon92/ReadMeGenerator-/issues"
+  },
+  "homepage": "https://github.com/anhnguyendon92/ReadMeGenerator-#readme"
+}
