@@ -4,6 +4,7 @@
   "description": "Read Me Generator",
   "main": "index.js",
   "dependencies": {
+    "@appnest/readme": "^1.2.7",
     "inquire": "^0.4.8"
   },
   "devDependencies": {},
