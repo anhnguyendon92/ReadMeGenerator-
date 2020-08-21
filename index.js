@@ -70,7 +70,7 @@ function generateMarkdown(response) {
     return `
 # ${response.title}
 
-# Table of Contense
+# Table of Content
 
     - [Description](#description)
     - [Installation](#installation)
