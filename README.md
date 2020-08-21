@@ -1,7 +1,7 @@
 
 # Macadons
 
-# Table of Contense
+# Table of Content
 
     - [Description](#description)
     - [Installation](#installation)
@@ -17,15 +17,15 @@
 
         Bunch of dessert
     ## Installation:
-        NONE
+     
     ## Usage:
-        daily
+  
     ## Contributing:
-        no one blood
+   
     ## Test:
-        kiss my ass
+        
     ## Credits:
-        myself baby  
+     
     ## License:
         For more infomation about the license, click on the link below.
         
