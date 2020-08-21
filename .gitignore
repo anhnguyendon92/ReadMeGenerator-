@@ -1,0 +1,25 @@
+############
+## node modules
+############
+node_modules/
+############
+## IDEs
+############
+*.pydevproject
+.project
+.metadata
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+.cproject
+.buildpath
+nbproject/
+############
+## OSes
+############
+[Tt]humbs.db

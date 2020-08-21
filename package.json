@@ -5,7 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "@appnest/readme": "^1.2.7",
-    "inquire": "^0.4.8"
+    "axios": "^0.20.0",
+    "axois": "0.0.1-security",
+    "inquire": "^0.4.8",
+    "inquirer": "^7.3.3"
   },
   "devDependencies": {},
   "scripts": {
