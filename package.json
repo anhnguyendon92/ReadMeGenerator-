@@ -1,18 +1,20 @@
 {
   "name": "readmegenerator-",
   "version": "1.0.0",
-  "description": "Read Me Generator",
+  "description": "To creat a README Generator",
   "main": "index.js",
   "dependencies": {
-    "@appnest/readme": "^1.2.7",
     "axios": "^0.20.0",
-    "axois": "0.0.1-security",
+    "axois": "^0.0.1-security",
+    "fs": "^0.0.1-security",
     "inquire": "^0.4.8",
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "license": "^1.0.3"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
