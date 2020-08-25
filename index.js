@@ -68,19 +68,26 @@ function promptUser() {
 }
 
 
-//Function to intialize program
-async function init() {
-    try {
-        const response = await promptUser();
 
-        const readMe = generateMarkdown(response);
 
-        await writeFileAsync('README.md', readMe);
-        console.log('Success');
-    } catch (err) {
-        console.log(err);
-    }
+// function to initialize program
+const init = () => {
+    inquirer.prompt(questions).then(answers => {
+        console.log(answers);
+        axios
+          .get('https://api.github.com/users/' + answers.username)
+          .then(response => {
+            console.log(response);
+            var imageURL = response.data.avatar_url;
+            answers.image = imageURL;
+            console.log(imageURL);
+            fs.writeFile('README.md', generateMarkdown(answers), (err) => {
+              if (err) {
+                throw err;
+              }
+            });
+          });
+      });
 }
-
-//function call to intialize program
+// function call to initialize program
 init();

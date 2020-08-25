@@ -1,5 +1,5 @@
 
-# Macadons
+# READ Me Generator
 
 # Table of Content
 
