@@ -1,40 +1,46 @@
 
-# READ Me Generator
+  ## Badges
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # Project Title : ReadMeGenerator-
+## Project Description:
+undefined
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Test](#test)
+* [Questions](#questions)
+* [License](#license)
+* [Author](#Author)
+* [Badges](#badges)
+## Installation
+To install dependencies, run the following:
+`
+npm i
+`
+## Usage
 
-# Table of Content
+## Contributors
+N?A
+## Test
+To run tests, run the following:
+`
+run npm test
+`
 
-    - [Description](#description)
-    - [Installation](#installation)
-    - [usage](#usage)
-    - [Contributing](#contributing)
-    - [Test](#test)
-    - [Credits](#credits)
-    - [License](#license)
-    - [Questions](#questions)
+## Questions
+If you have questions about this repository? Please contact me at [anhnguyendon92@gmail.com](mailto:anhnguyendon92@gmail.com). View more of my work in GitHub at [anhnguyendon92](https://github.com/anhnguyendon92).
+## License
+This repository is licensed under the MIT license.
 
-    ## Description:
-    ![License](https://img.sheilds.io/bagde/License-undefined-blue.svg lLicense Bagde)
+Copyright (c) [2020] [Anh Nguyen]
 
-        Bunch of dessert
-    ## Installation:
-     
-    ## Usage:
-  
-    ## Contributing:
-   
-    ## Test:
-        
-    ## Credits:
-     
-    ## License:
-        For more infomation about the license, click on the link below.
-        
-    - [License](https://opensource.org/licenses/)  
-    
-    ## Questions:
-        For questions about the Generator you can go to my GitHub page at the following Link:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-    - [GitHub Profile](https://github.com/anhnguyendon92)
-    
-    For additional questions please reach out to my email at: anhnguyendon92@gmail.com.
-    
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Author 
+![GitHub profile pic](https://avatars2.githubusercontent.com/u/65106546?v=4)

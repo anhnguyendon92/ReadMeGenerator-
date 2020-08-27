@@ -4,7 +4,7 @@ const inquirer = require('inquirer');
 
 const axios = require('axios');
 
-const generateMarkdown = require('./utils/generateMarkdown.js')
+const generateMarkdown = require('./Utils/GenerateM');
 // array of questions for user
 const questions = [
     {
